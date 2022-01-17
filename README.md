@@ -16,3 +16,7 @@ Technology:
     Speech recognition
     speech synthesis(used to talk back to the user)
     Artificial intelligence(AI)
+    
+    
+Acknowlegements:
+Jehovah Jireh!
